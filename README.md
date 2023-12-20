@@ -16,6 +16,12 @@ spotify client.
 
 ## Examples
 
+![Nord Theme(waifu)](screenshots/nord-waifu.png?raw=true "Nord Theme(waifu)")
+
+![Nerv Theme(evangelion)](screenshots/evangelion-nerv.png?raw=true "Nord Theme(Nerv Theme(evangelion))")
+
+![Rei Theme(evangelion)](screenshots/evangelion-rei.png?raw=true "Nord Theme(waifu)")
+
 ## Usage
 1. Clone this repo
  ```bash
