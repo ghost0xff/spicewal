@@ -16,11 +16,11 @@ spotify client.
 
 ## Examples
 
-![Nord Theme(waifu)](screenshots/nord-waifu.png?raw=true "Nord Theme(waifu)")
+![Nord Theme(waifu)](screenshots/nord-waifu.png?raw=true "waifu")
 
-![Nerv Theme(evangelion)](screenshots/evangelion-nerv.png?raw=true "Nord Theme(Nerv Theme(evangelion))")
+![Nerv Theme(evangelion)](screenshots/evangelion-nerv.png?raw=true "nerv")
 
-![Rei Theme(evangelion)](screenshots/evangelion-rei.png?raw=true "Nord Theme(waifu)")
+![Rei Theme(evangelion)](screenshots/evangelion-rei.png?raw=true "rei")
 
 ## Usage
 1. Clone this repo
