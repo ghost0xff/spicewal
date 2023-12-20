@@ -53,4 +53,4 @@ wallpaper, terminals, window manager and other apps)
 
 ## Credits
 Although modified a bit, css styles that make spotify look like spotify-tui were "forked" from [darkthemer](https://github.com/darkthemer)
-(who mantains [this repo](https://github.com/darkthemer/spicetify-themes) with various spicetify themes 
+(who mantains [this repo](https://github.com/darkthemer/spicetify-themes) with various spicetify themes)
