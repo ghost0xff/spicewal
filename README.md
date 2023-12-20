@@ -5,7 +5,7 @@ theme to sync spotify and pywal (with spicetify)
 - [spicetify](https://spicetify.app/)
 - [pywal](https://github.com/dylanaraps/pywal)
 
-## Example
+## Examples
 
 ## Usage
 1. Clone this repo
