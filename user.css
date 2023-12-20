@@ -33,7 +33,7 @@
     --line-height: 1.2;
 
     --display-card-image: block; /* none | block */
-    --display-coverart-image: block; /* none | block */
+    --display-coverart-image: none; /* none | block */
     --display-header-image:  block; /* none | block */
     --display-library-image: block; /* none | block */
     --display-tracklist-image: none; /* none | block */
