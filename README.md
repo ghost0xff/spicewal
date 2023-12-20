@@ -1,6 +1,15 @@
 # spicewal
 theme to sync spotify and pywal (with spicetify)
 
+## Description
+Just a theme to make your spotify client look like a TUI
+and have the same color scheme as the rest of 
+your system (using [pywal](https://github.com/dylanaraps/pywal)). Feel free to modify
+any parameters on the css or on the colors selected
+from pywal-generated palette. This is only posible if you use
+[spicetify](https://spicetify.app/) to get the most out of your 
+spotify client.
+
 ## Dependencies
 - [spicetify](https://spicetify.app/)
 - [pywal](https://github.com/dylanaraps/pywal)
