@@ -25,19 +25,21 @@ spotify client.
 ![Rei Theme(evangelion)](screenshots/evangelion-rei.png?raw=true "rei")
 
 ## Usage
-1. Clone this repo
+1. Clone this repo under the directory where spicetify looks for themes (on linux it's `~/.config/spicetify/Themes` )
  ```bash
-    git clone https://github.com/samu22cr/spicewal.git 
+    cd ~/.config/spicetify/Themes
+    git clone https://github.com/samu22cr/spicewal.git
+
  ```
-2. Create your theme directory under the directory where spicetify looks for themes (on linux it's `~/.config/spcitify/Themes` )
-3. Move `color.ini` and `user.css` to the recently created directory
-4. Apply theme with
+2. Apply theme with
 ```bash
-    spicetify config current_theme NEW_DIRECTORY_NAME 
+    spicetify config current_theme spicewal
     spicetify apply
 ```
- ## Troubleshooting
+3. Open Spotify
 
+
+ ## Troubleshooting
 "First time worked but now spotify theme doesn't change after
 creating a new pywal colorscheme"
 
