@@ -523,10 +523,12 @@
     height: 24px;
     width: 24px;
 }
+
 .main-trackList-rowTitle::after {
     content: " |";
     color: var(--spice-highlight);
 }
+
 .main-trackList-number,
 .main-trackList-icon {
     top: unset;
@@ -560,16 +562,34 @@
     opacity: 1;
     transition: none;
 }
-.lyrics-lyricsContent-lyric:not(:empty)::before {
-    content: ">> ";
-    opacity: 0;
+
+/*
+ * NOW
+ * */
+.lyrics-lyrics-contentWrapper {
+	text-align: center; 
 }
-.lyrics-lyricsContent-lyric.lyrics-lyricsContent-isInteractive.lyrics-lyricsContent-active:not(
-        :empty
-    )::before {
-    content: ">> ";
-    opacity: 1;
+
+
+.lyrics-lyrics-contentWrapper>*:not(.lyrics-lyricsContent-active, .lyrics-lyricsContent-highlight, .lyrics-lyricsContent-provider, .lyrics-lyricsContent-description, .lyrics-lyricsContent-unsynced) {
+	color: #FFFFFF4D !important;
+} 
+.lyrics-lyrics-contentWrapper>*:not(.lyrics-lyricsContent-active, .lyrics-lyricsContent-highlight, .lyrics-lyricsContent-provider, .lyrics-lyricsContent-description, .lyrics-lyricsContent-unsynced):hover {
+	color: #FFFFFF !important; 
+} 
+.lyrics-lyricsContent-highlight {
+	color: #FFFFFF66;
 }
+.lyrics-lyricsContent-unsynced { 
+	color: #FFFFFF !important; 
+}
+.lyrics-lyricsContent-unsynced:hover {
+	color: #FFFFFF !important; 
+}
+.lyrics-lyricsContent-provider, .lyrics-lyricsContent-description { 
+	color: #FFFFFFB6 !important; 
+}
+
 
 /*  ================================
     PLAYBACK BAR
