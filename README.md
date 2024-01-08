@@ -16,6 +16,8 @@ spotify client.
 
 ## Examples
 
+![Solarized Theme(solarized)](screenshots/solarized.png?raw=true "solarized")
+
 ![Nord Theme(waifu)](screenshots/nord-waifu.png?raw=true "waifu")
 
 ![Nerv Theme(evangelion)](screenshots/evangelion-nerv.png?raw=true "nerv")
