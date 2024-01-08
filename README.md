@@ -10,10 +10,6 @@ from pywal-generated palette. This is only posible if you use
 [spicetify](https://spicetify.app/) to get the most out of your 
 spotify client.
 
-## Dependencies
-- [spicetify](https://spicetify.app/)
-- [pywal](https://github.com/dylanaraps/pywal)
-
 ## Examples
 
 ![Solarized Theme(solarized)](screenshots/solarized.png?raw=true "solarized")
@@ -24,7 +20,11 @@ spotify client.
 
 ![Rei Theme(evangelion)](screenshots/evangelion-rei.png?raw=true "rei")
 
-## Usage
+## Dependencies
+- [spicetify](https://spicetify.app/)
+- [pywal](https://github.com/dylanaraps/pywal)
+
+## Installation
 1. Clone this repo under the directory where spicetify looks for themes (on linux it's `~/.config/spicetify/Themes` )
  ```bash
     cd ~/.config/spicetify/Themes
