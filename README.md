@@ -28,7 +28,7 @@ spotify client.
 1. Clone this repo under the directory where spicetify looks for themes (on linux it's `~/.config/spicetify/Themes` )
  ```bash
     cd ~/.config/spicetify/Themes
-    git clone https://github.com/samu22cr/spicewal.git
+    git clone https://github.com/ghost0xff/spicewal.git
 
  ```
 2. Apply theme with
@@ -50,7 +50,7 @@ scheme changed.
 spicetify apply
 ```
 2) Or automatically re-apply theme (script, key binding, etc...)
-, just like I do it in [stheme (on my dotfiles)](https://github.com/samu22cr/dotfiles), which
+, just like I do it in [stheme (on my dotfiles)](https://github.com/ghost0xff/dotfiles), which
 is a personal tool I use to sync the colorscheme of all my system (rgb,
 wallpaper, terminals, window manager and other apps)
 
